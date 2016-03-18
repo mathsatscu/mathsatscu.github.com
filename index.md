@@ -5,9 +5,6 @@ comments: false
 
 ---
 
-{% include _tocmain.html %}
-
-
 
 ## T. S. Eliot's "Little Gidding":
 
