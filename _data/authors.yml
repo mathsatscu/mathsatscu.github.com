@@ -1,0 +1,43 @@
+﻿# Authors
+
+xing_rong_kun:
+  name: 幸荣堃
+  web: http://101010.io
+  bio: "not six at all"
+  avatar: xrk.png
+  weibo: quarkreprise
+
+wang_yu:
+  name: 王宇
+  web: http://101010.io
+  bio: "six"
+  avatar: wy.jpg
+ 
+zhang_chi:
+  name: 张弛
+  bio: "six or not"
+  avatar: zc.png
+
+lv_ji_long:
+  name: 吕纪龙
+  bio: "six "
+  avatar: ljl.png
+
+billy_rick:
+  name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone 
