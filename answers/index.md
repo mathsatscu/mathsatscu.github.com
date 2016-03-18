@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 课后习题答案
-comments: true
+comments: false
 
 ---
 
