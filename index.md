@@ -15,5 +15,5 @@ comments: false
 
 ## Links:
 
-<a href="http://zhjw.scu.edu.cn/login.jsp" class="btn btn-info">四川大学教务处</a>
-<a href="http://jwc.scu.edu.cn/jwc" class="btn btn-info">四川大学本科教务系统</a>
+<a href="http://zhjw.scu.edu.cn/login.jsp" class="btn">四川大学教务处</a>
+<a href="http://jwc.scu.edu.cn/jwc" class="btn">四川大学本科教务系统</a>
