@@ -1,5 +1,5 @@
 ---
 layout: post-index-posts
-title: 实时资源
+title: 教学资源
 
 ---
