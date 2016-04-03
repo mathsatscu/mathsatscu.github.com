@@ -106,7 +106,7 @@ comments: false
 
 ## 3-1
 
-### Public
+### 公共课程
 
 #### 泛函分析
 
@@ -116,8 +116,6 @@ comments: false
   
 [下载](http://mathsatscu.101010.io/downloads/泛函分析答案.pdf)泛函分析答案.pdf
 
-### Fundamental
-
 #### 偏微分方程
 
 > 书名：
@@ -126,7 +124,7 @@ comments: false
   
 [下载](http://101010.io/downloads/)
 
-### Statistics
+### 统计学
 
 #### 线性模型
 
