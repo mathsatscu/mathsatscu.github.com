@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "作业:数理统计（宋恩彬老师）"
+excerpt: "最后更新 习题第101页：28,29,31,32题"
 postdir: notifications
 
 ---
@@ -15,4 +16,4 @@ postdir: notifications
 > 宋恩彬老师数理统计课程
 >《应用数理统计》习题第100页：20,22题
 
-来自主页君
+

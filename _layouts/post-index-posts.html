@@ -40,7 +40,7 @@
     {% capture written_date %}'None'{% endcapture %}
     {% for post in site.posts %}  
 	   {% if post.postdir contains 'posts' %}
-        {% capture date %}{{ post.date | date: "%Y %m %d" }}{% endcapture %}
+        {% capture date %}{{ post.date | date: "%m %d" }}{% endcapture %}
         {% if date != written_date %}
           <h3>{{ date }}</h3>
           {% capture written_date %}{{ date }}{% endcapture %}
