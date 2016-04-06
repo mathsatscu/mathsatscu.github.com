@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "作业:数理统计（宋恩彬老师）"
+title: "作业：数理统计（宋恩彬老师）"
 excerpt: "最后更新 习题第101页：28,29,31,32题"
 postdir: notifications
 
