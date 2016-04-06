@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 课件：统计计算
-excerpt: "最后更新SC-6-1"
+excerpt: "最后更新 SC-6-1"
 postdir: posts
 
 ---
